@@ -1,0 +1,22 @@
+.cookieButton{
+    position: absolute;
+    top: 125px;
+    left: 40px;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: rgba(23, 101, 101, 0);
+    border-color: rgba(255, 255, 255, 0);
+    border-width: 10px;
+    font-size: 250px;
+}
+.cookieDisplay{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+    border-color: black; font-family: sans-serif;
+}
+.cookieDisplay2{
+    position: absolute;
+    left: 145px; top: 95px; font-family: sans-serif;
+}
